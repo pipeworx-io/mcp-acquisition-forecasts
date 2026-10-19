@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/acquisition-forecasts",
   "title": "Acquisition Forecasts",
-  "description": "US federal agency procurement FORECASTS — what an agency says it intends to",
-  "version": "0.1.2",
+  "description": "US federal agency procurement FORECASTS — what an agency says it intends to buy, before it buys it…",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/acquisition-forecasts",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-acquisition-forecasts",
