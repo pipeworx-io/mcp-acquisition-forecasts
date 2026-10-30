@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/acquisition-forecasts",
   "title": "Acquisition Forecasts",
   "description": "US federal agency procurement FORECASTS — what an agency says it intends to buy, before it buys it…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/acquisition-forecasts",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-acquisition-forecasts",

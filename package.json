@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-acquisition-forecasts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "US federal agency procurement FORECASTS — what an agency says it intends to buy, before it buys it (fleet #621).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "acquisition-forecasts",
     "gatewaySlug": "acquisition-forecasts",
-    "sourceHash": "v1-17e7bd24e8b1b3f008773cc14ad083b25d7e771b5579bbe763a39166bd08b4d8",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-a4fd91332c6dce3380a652eec75a4419550fc8d5f271d2747652823b21fd2441",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
